@@ -26,10 +26,10 @@ A **simple and clean To-Do List web application** built with **HTML, CSS, and Ja
 
 ```
 CodeSentinel_Simple-To-Do-List/
-├── index.html          # Main HTML file
-├── style.css           # CSS styling
-├── script.js           # JavaScript functionality
-└── README.md           # This file
+├── index.html         
+├── style.css          
+├── script.js           
+└── README.md        
 ```
 
 ---
